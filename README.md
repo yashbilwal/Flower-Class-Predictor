@@ -3,7 +3,7 @@
 A web-based flower classification application that leverages machine learning to predict the species of flowers based on their physical features. This project utilizes a React frontend (MERN stack) for dynamic interaction and a Python backend powered by machine learning algorithms to make accurate predictions using the Iris dataset.
 
 
-## 📋 Table of Contents
+## 📋 **Table of Contents**
 
 Project Overview
 Features
@@ -15,18 +15,18 @@ Future Enhancements
 Contributions
 
 
-## 📖 Project Overview
+## 📖 **Project Overview**
 
 The Flower Class Prediction application is a full-stack machine learning web app that predicts the class of a flower based on its physical attributes. Users input the flower's measurements into the React frontend, and the backend uses a trained Decision Tree model to classify the flower.
 
-### Key Components:
+### **Key Components**:
 
 Frontend: Built with React.js for a seamless, dynamic user experience.
 Backend: Utilizes Node.js and Express to manage API requests, with Python running the machine learning model.
 Machine Learning: Scikit-learn's Decision Tree classifier is used to classify the flowers based on the Iris dataset.
 
 
-## ✨ Features
+## ✨ **Features**
 
 User-Friendly Interface: Simple form to input flower measurements and view prediction results.
 Fast Predictions: Instant flower classification based on input features.
@@ -34,7 +34,7 @@ Accurate Machine Learning Model: Uses a Decision Tree classifier trained on the 
 Interactive UI: Built using React for a smooth, responsive user experience.
 
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 ### Frontend:
 React.js for building the user interface.
@@ -48,7 +48,7 @@ Scikit-learn for building the Decision Tree classifier.
 pandas and NumPy for data handling and manipulation.
 
 
-## 🚀 Installation
+## 🚀 **Installation**
 
 ### 1. Clone the repository:
 git clone https://github.com/your-username/flower-class-prediction.git
@@ -65,14 +65,14 @@ npm install
 node server.js
 
 
-## 🖥️ Usage
+## 🖥️ **Usage**
 
 After installation, open the frontend app in your browser at http://localhost:3000 to interact with the flower classification form.
 Start the backend server by running the command node server.js in the backend folder. The backend will be available at http://localhost:5000.
 Input the flower's features into the frontend form, and the backend will provide the predicted flower species.
 
 
-## 🔧 How It Works
+## 🔧 **How It Works**
 
 ### Frontend: 
 The user inputs the physical measurements of a flower into the React form (sepal length, sepal width, petal length, and petal width).
