@@ -31,11 +31,13 @@ Scikit-learn (for building the Decision Tree model)
 pandas & NumPy (for data manipulation)
 
 4) 🚀 How to Use:
+   
 4.1)Clone the Repository:
 git clone https://github.com/your-username/flower-class-prediction.git
 cd flower-class-prediction
 
 4.2) Install Dependencies:
+
 4.2.1)For the frontend:
 cd frontend
 npm install
@@ -48,10 +50,10 @@ node server.js
 5) Deploy Locally: After running the server and the React app, navigate to http://localhost:5000 to access the flower prediction API.
 
 
-6) ⚡ Features to Look Forward to:
+⚡ Features to Look Forward to:
 Real-time Prediction: The system will immediately display the predicted flower class once the user inputs the measurements.
 Model Updates: Future iterations may improve model performance, adding more complex algorithms, or using additional datasets for better generalization.
 Interactive Visualizations: With future enhancements, the app could feature interactive charts and graphs to visualize the dataset and prediction confidence levels.
 
-7)📚 Learn More:
+📚 Learn More:
 This project serves as a practical example of integrating machine learning with a web interface. It demonstrates how a machine learning model can be used in real-world applications, offering both learning and hands-on experience in building full-stack machine learning projects.
