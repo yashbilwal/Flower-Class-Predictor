@@ -16,6 +16,7 @@ Interactive: The web interface is responsive and gives users an easy and engagin
 Model Accuracy: The model is highly accurate, leveraging one of the most commonly used datasets for machine learning tasks, making it a reliable solution for flower classification.
 
 3) 🖥️ Technology Stack:
+
 3.1)Frontend:
 React.js (for building the user interface)
 HTML5 & CSS3 (for structuring and styling)
