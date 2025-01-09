@@ -1,4 +1,4 @@
-# **🌸 Flower Class Prediction Web Application using Machine Learning 🌸**
+# 🌸 **Flower Class Prediction Web Application using Machine Learning**
 
 A web-based flower classification application that leverages machine learning to predict the species of flowers based on their physical features. This project utilizes a React frontend (MERN stack) for dynamic interaction and a Python backend powered by machine learning algorithms to make accurate predictions using the Iris dataset.
 
